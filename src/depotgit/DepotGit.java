@@ -17,6 +17,7 @@ public class DepotGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello + args[0]");
+        System.out.println("Tests de commits");
     }
     
 }
