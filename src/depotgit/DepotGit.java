@@ -18,6 +18,7 @@ public class DepotGit {
         // TODO code application logic here
         System.out.println("Hello + args[0]");
         System.out.println("Tests de commits");
+        System.out.println("My push worked");
     }
     
 }
